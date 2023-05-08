@@ -1,8 +1,10 @@
-# Fruto e Fruta - HTML/CSS
+# Fruta e Fruto - HTML/CSS
 
 ## Sobre:
 
-Aplicação desenvolvida para aperfeiçoar os conhecimentos em CSS, onde existe a necessidade de colocar pastas para cada classe css (em sua necessidade).
+O repositório "Fruta e Fruto" contém um projeto web estático desenvolvido utilizando as linguagens de marcação HTML e CSS. Este projeto foi criado com o objetivo de reproduzir uma página de apresentação de uma loja virtual de frutas e frutos.
+
+O projeto é composto por uma página HTML que utiliza o CSS para estilização e organização do conteúdo, de forma responsiva e adaptável a diferentes dispositivos. O HTML foi a linguagem de marcação utilizada para a criação da estrutura da página e o CSS foi a linguagem utilizada para a criação dos estilos, proporcionando uma abordagem mais tradicional de desenvolvimento web.
 
 ## Layout:
 
@@ -10,18 +12,16 @@ Aplicação desenvolvida para aperfeiçoar os conhecimentos em CSS, onde existe 
 
 ## Como executar o projeto?
 
-The steps to access the project are very simple, but follow in the following order:
+Os passos para acessar o projeto são bem simples, mas seguem a seguinte ordem:
 
 ```bash
 # Terminal
 
-git clone https://github.com/MateusMaciel340/fruta-fruto-html-css # clone do repositório
+git clone https://github.com/MateusMaciel340/fruta-fruto-html-css
 
-cd fruta-fruto-html-css/ # acessando pasta
+cd fruta-fruto-html-css/
 
-# acessar Live Server com index.html
 ```
-
 
 ## Tecnologias
 
@@ -49,12 +49,12 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
     </tbody>
 </table>
 
-## How to contribute?
+## Como contribuir?
 
-1. Fork o projeto.
-2. Crie uma nova ramificação com suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de confirmação contando o que você fez: `git commit -m Modifying this [...]`
-4. Envie suas alterações: `git push origin my-feature`
+1. Faça um fork do projeto.
+2. Crie uma nova ramificação com suas alterações: `git checkout -b minha-feature`
+3. Salve as alterações e crie uma mensagem de confirmação contando o que você fez: `git commit -m "arquivo modificado"`
+4. Envie suas alterações: `git push origin minha-feature`
 
 ## Licença
 
