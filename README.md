@@ -8,7 +8,7 @@ O projeto é composto por uma página HTML que utiliza o CSS para estilização 
 
 ## Layout:
 
-![](assets/fruto-fruta-html-css.gif)
+![](assets/fruta-fruto-html-css.gif)
 
 ## Como executar o projeto?
 
